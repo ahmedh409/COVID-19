@@ -4,7 +4,7 @@ A Jupyter Notebook simulation using the SEIR model for the course of a pandemic.
 The SEIR is a compartmental model which adds an “Exposed” state (compared to SIR) for individuals that have contracted the disease but are not yet infectious. This uses the fact that there is an incubation stage of infection that lasts approximately 6 days. The model assumes people carry lifelong immunity to a disease upon recovery, which hasn't been disproven for COVID-19.
 
 <p align="center">
-  <img src="seir_graph.jpg" width="500" align="center">
+  <img src="seir_graph.jpg" width="500">
 </p>
 
 Packages:
